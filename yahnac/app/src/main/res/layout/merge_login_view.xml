@@ -85,11 +85,11 @@
         android:text="@string/action_cancel" />
 
       <com.malmstein.yahnac.views.fonts.YahnacTextView
-        android:id="@+id/login_login"
-        style="@style/HNews.Login.Button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/action_login" />
+          android:id="@+id/login_login"
+          style="@style/HNews.Login.Button"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="@string/action_login" />
 
     </LinearLayout>
 

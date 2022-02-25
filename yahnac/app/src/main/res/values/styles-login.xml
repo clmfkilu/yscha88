@@ -27,13 +27,7 @@
 
   <style name="HNews.Login.ScrollContainer" parent="HNews.Login.ItemCommon" />
 
-  <style name="HNews.Login.Content">
-    <item name="android:paddingLeft">@dimen/dialog_login_content_padding_left</item>
-    <item name="android:paddingTop">@dimen/dialog_login_content_padding_top</item>
-    <item name="android:paddingRight">@dimen/dialog_login_content_padding_right</item>
-  </style>
-
-  <style name="HNews.Login.Error">
+    <style name="HNews.Login.Error">
     <item name="android:textSize">@dimen/perks_question_error_text</item>
     <item name="android:textColor">@color/error_text</item>
     <item name="android:drawableStart">@drawable/ic_input_error</item>
@@ -66,18 +60,6 @@
     <item name="android:textAllCaps">true</item>
     <item name="fontAsset">robotoMedium</item>
     <item name="android:layout_marginLeft">@dimen/dialog_login_button_marginLeft</item>
-  </style>
-
-  <style name="HNews.Login.TextInputLayout" parent="TextAppearance.AppCompat">
-    //hint color And Label Color in False State
-    <item name="android:textColorHint">@color/white</item>
-    <item name="colorAccent">@color/white</item>
-    <item name="colorControlNormal">@color/white</item>
-    <item name="colorControlActivated">@color/white</item>
-  </style>
-
-  <style name="HNews.Login.TextInputLayoutAppearance" parent="@android:style/TextAppearance">
-    <item name="android:textColor">@color/white</item>
   </style>
 
 </resources>

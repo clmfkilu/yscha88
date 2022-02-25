@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/repo/yahnac02/app/src/main/res/drawable-v21/selector_card_button.xml" value="0.1105" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/drawable-v21/selector_card_clickable.xml" value="0.1105" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/drawable/selector_bookmark.xml" value="0.1105" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/drawable/selector_card_button.xml" value="0.1105" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/drawable/selector_card_clickable.xml" value="0.1105" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/drawable/shape_card_background_default.xml" value="0.1105" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/drawable/shape_snackbar_shadow.xml" value="0.1105" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/layout-land/activity_login.xml" value="0.37962962962962965" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/layout-land/merge_login_view.xml" value="0.37962962962962965" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/layout/activity_bookmarks.xml" value="0.3695652173913043" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/layout/activity_login.xml" value="0.3695652173913043" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/layout/activity_news.xml" value="0.3695652173913043" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/layout/activity_settings.xml" value="0.3695652173913043" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/layout/activity_software_licenses.xml" value="0.3695652173913043" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/layout/activity_story.xml" value="0.3695652173913043" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/layout/fragment_bookmarks_feed.xml" value="0.3695652173913043" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/layout/fragment_software_licenses.xml" value="0.3695652173913043" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/layout/fragment_stories_feed.xml" value="0.3695652173913043" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/layout/include_bookmark_fragment.xml" value="0.3695652173913043" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/layout/include_stories_viewpager.xml" value="0.3695652173913043" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/layout/merge_login_view.xml" value="0.3695652173913043" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/layout/merge_reply_view.xml" value="0.3695652173913043" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/layout/merge_snackbar.xml" value="0.3695652173913043" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/layout/navigation_drawer_list.xml" value="0.3695652173913043" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/layout/view_bookmark_item.xml" value="0.3695652173913043" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/layout/view_bookmark_item_footer.xml" value="0.3695652173913043" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/layout/view_comment_item.xml" value="0.3695652173913043" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/layout/view_comment_item_footer.xml" value="0.3695652173913043" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/layout/view_comment_item_header.xml" value="0.3695652173913043" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/layout/view_comments.xml" value="0.3695652173913043" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/layout/view_drawer_header.xml" value="0.3695652173913043" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/layout/view_drawer_header_logged_in.xml" value="0.3695652173913043" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/layout/view_drawer_header_logged_out.xml" value="0.3695652173913043" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/layout/view_empty_feed_placeholder.xml" value="0.3695652173913043" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/layout/view_story_header.xml" value="0.3695652173913043" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/layout/view_story_item.xml" value="0.3695652173913043" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/layout/view_story_item_footer.xml" value="0.3695652173913043" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/menu/drawer_view.xml" value="0.4484375" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/menu/menu_article.xml" value="0.4484375" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/menu/menu_comments.xml" value="0.4484375" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/xml/about_settings.xml" value="0.3695652173913043" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/xml/account_settings.xml" value="0.3695652173913043" />
+        <entry key="..\:/repo/yahnac02/app/src/main/res/xml/community_settings.xml" value="0.3695652173913043" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

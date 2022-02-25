@@ -8,7 +8,4 @@
 
   <color name="snackbar_background">#EA333333</color>
 
-  <color name="feed_snackbar_default_background_color">#00000000</color>
-  <color name="feed_snackbar_pressed_background_color">#40FFFFFF</color>
-
 </resources>

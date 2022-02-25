@@ -13,22 +13,12 @@
     <item name="android:textAppearance">?android:attr/textAppearanceInverse</item>
   </style>
 
-  <style name="HNews.Toolbar.Overlay" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
-    <item name="android:windowActionBarOverlay">true</item>
-    <item name="windowActionBarOverlay">true</item>
-  </style>
-
-  <style name="HNews.AppBar.Collapsing" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+    <style name="HNews.AppBar.Collapsing" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
     <item name="android:actionBarItemBackground">?attr/selectableItemBackground</item>
     <item name="actionBarItemBackground">?attr/selectableItemBackground</item>
   </style>
 
-  <style name="HNews.AppBar" parent="Widget.AppCompat.Toolbar">
-    <item name="theme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
-    <item name="popupTheme">@style/ThemeOverlay.AppCompat.Light</item>
-  </style>
-
-  <style name="HNews.DropDownListView" parent="Widget.AppCompat.ListView.DropDown">
+    <style name="HNews.DropDownListView" parent="Widget.AppCompat.ListView.DropDown">
     <item name="android:listSelector">@drawable/selectable_background</item>
     <item name="android:divider">@color/grey</item>
     <item name="android:dividerHeight">1dp</item>
@@ -47,18 +37,6 @@
     <item name="dividerHeight">@dimen/feed_item_article_footer_divider_height</item>
     <item name="dividerColor">@color/feed_item_footer_divider</item>
     <item name="android:minHeight">@dimen/feed_item_article_footer_height</item>
-  </style>
-
-  <style name="HNews.AppBar.Subtitle" parent="None">
-    <item name="android:gravity">bottom</item>
-    <item name="android:textColor">@color/white</item>
-    <item name="android:textSize">@dimen/appbar_tab_title_text</item>
-    <item name="android:textStyle">@integer/font_textStyle_medium</item>
-  </style>
-
-  <style name="HNews.AppBar.NewsContainer" parent="None">
-    <item name="appBarShadowHeight">@dimen/app_bar_shadow_height</item>
-    <item name="appBarLayout">@layout/include_app_bar</item>
   </style>
 
 </resources>

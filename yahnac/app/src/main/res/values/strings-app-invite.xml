@@ -8,8 +8,7 @@
   <string name="invitation_title">Invite your friends to use Yahnac</string>
   <string name="invitation_message">This is a great Hacker News client, give it a try!</string>
   <string name="invitation_cta">Install!</string>
-  <string name="invitation_subject">Try this great app!</string>
 
-  <string name="google_play_services_error">Google Play Services Error</string>
+    <string name="google_play_services_error">Google Play Services Error</string>
 
 </resources>
